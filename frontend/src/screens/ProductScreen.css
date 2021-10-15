@@ -28,7 +28,7 @@
 }
 
 .left__info > p,
-.right_info > p {
+.right__info > p {
   padding: 1rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
